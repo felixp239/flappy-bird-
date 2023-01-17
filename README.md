@@ -1,2 +1,2 @@
 # flappy-bird-
-he he ha ha
+My pathetic attempt at making flappy bird clone
