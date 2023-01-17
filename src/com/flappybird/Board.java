@@ -34,7 +34,6 @@ public class Board extends JPanel implements ActionListener {
         setFocusable(true);
         setBackground(Color.WHITE);
         inGame = true;
-
         setPreferredSize(new Dimension(B_WIDTH, B_HEIGHT));
 
         player = new Player(B_WIDTH / 2, B_HEIGHT / 2);
